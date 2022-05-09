@@ -70,6 +70,7 @@ body{
 .profile-img
 {
     height: 400px;
+    max-width: 100%;
 }
 .nav-bar{
    top: 0;
